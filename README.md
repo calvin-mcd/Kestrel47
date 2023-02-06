@@ -1,6 +1,6 @@
 # Kestrel47
  
- commission for Falconloft#4615
+ collaboration with Falconloft#4615
 
  40s keyboard inspired by the TG4x. sandwich style case with midlayers case. Supports Bluetooth enabled micro controllers with use of this [power button](https://tech.alpsalpine.com/e/products/detail/SSSS811101/) as well as smd and throughhole style diodes.
 
@@ -9,6 +9,8 @@
 ## Layout
 
 ![](https://github.com/calvin-mcd/Kestrel47/blob/main/Images/layout.png)
+
+[Link](http://www.keyboard-layout-editor.com/#/gists/43b69fae42faf7c21a81fad3a4cf8861)
   
 ## Pictures
 
