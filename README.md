@@ -2,7 +2,7 @@
  
  commission for Falconloft#4615
 
- 40s keyboard inspired by the TG4x. sandwich style case with midlayers case. Supports Bluetooth enabled microcontrollers.
+ 40s keyboard inspired by the TG4x. sandwich style case with midlayers case. Supports Bluetooth enabled micro controllers as well as smd and throughhole diodes.
 
  concept, case design and firmware by Falconloft#4615, pcb design by Calvin#0563
 
