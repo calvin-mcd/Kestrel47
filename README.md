@@ -17,11 +17,6 @@
 ![](https://github.com/calvin-mcd/Kestrel47/blob/main/Images/case2.jpg)
 ![](https://github.com/calvin-mcd/Kestrel47/blob/main/Images/pcb.jpg)
 
-## Todo
-- [] readme
-- [] license
-- [] firmware
-
 ## Disclaimer
 
 This PCB has been tested and it confirmed to work. The members of the PCB development team are however not liable if you end up with a non-functional pcb. Order at your own risk. Support will not be provided but pull requests will be reviewed and possibly accepted.
