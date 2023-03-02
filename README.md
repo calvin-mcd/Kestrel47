@@ -18,13 +18,17 @@
 ![](https://github.com/calvin-mcd/Kestrel47/blob/main/Images/case2.jpg)
 ![](https://github.com/calvin-mcd/Kestrel47/blob/main/Images/pcb.jpg)
 
+
+## Todo
+- [ ] create & test firmware
+
 ## Firmware
 
-The included firmware requires Arduino IDE to compile correctly. See  Nice!Nano and BlueMIcro documentation for details.
+~The included firmware requires Arduino IDE to compile correctly. See  Nice!Nano and BlueMIcro documentation for details.~
 
 ## Disclaimer
 
-This PCB has been tested and it confirmed to work. The members of the PCB development team are however not liable if you end up with a non-functional pcb. Order at your own risk. Support will not be provided but pull requests will be reviewed and possibly accepted.
+This PCB has been not been fully tested yet. The members of the PCB development team are however not liable if you end up with a non-functional pcb. Order at your own risk. Support will not be provided but pull requests will be reviewed and possibly accepted.
 
 ## License
 
