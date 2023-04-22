@@ -4,7 +4,9 @@ collaboration with Falconloft\#4615
 
 40s keyboard inspired by the TG4x. sandwich style case with midlayers case. Supports Bluetooth enabled micro controllers with use of this [power button](https://tech.alpsalpine.com/e/products/detail/SSSS811101/) as well as smd and throughhole style diodes.
 
-_The Firmware is currently NOT FUNCTIONAL, DO NOT USE THE INCLUDED FILES!!!_
+Firmware for standard atmega & rp2040 pro micro style controllers is included.
+
+The BLE Firmware is currently NOT FUNCTIONAL, DO NOT USE THE INCLUDED FILES!!!_
 
 concept, case design and firmware by Falconloft\#4615, pcb design by Calvin\#0563
 
