@@ -4,9 +4,7 @@ collaboration with Falconloft\#4615
 
 40s keyboard inspired by the TG4x. sandwich style case with midlayers case. Supports Bluetooth enabled micro controllers with use of this [power button](https://tech.alpsalpine.com/e/products/detail/SSSS811101/) as well as smd and throughhole style diodes.
 
-Firmware for standard atmega & rp2040 pro micro style controllers is included.
-
-The BLE Firmware is currently NOT FUNCTIONAL, DO NOT USE THE INCLUDED FILES!!!_
+Firmware for standard atmega & rp2040 pro micro style controllers is included. Bluetooth is supported for bluemicro style controllers.
 
 concept, case design and firmware by Falconloft\#4615, pcb design by Calvin\#0563
 
@@ -24,13 +22,13 @@ concept, case design and firmware by Falconloft\#4615, pcb design by Calvin\#056
 
 ## Todo
 
-* [ ] fix BLE firmware
+* [x] fix BLE firmware
 
 ## Firmware
 
 Firmware for both Atmega and rp2040 controllers is functional and included.
 
-The BLE firmware is not yet confirmed to work. DO NOT USE.
+The BLE firmware is designed for bluemirco style controllers.
 
 ~~The included BLE firmware requires Arduino IDE to compile correctly. See Nice!Nano and BlueMIcro documentation for details.~~
 
