@@ -30,7 +30,7 @@ Firmware for both Atmega and rp2040 controllers is functional and included.
 
 The BLE firmware is designed for bluemirco style controllers.
 
-~~The included BLE firmware requires Arduino IDE to compile correctly. See Nice!Nano and BlueMIcro documentation for details.~~
+The included BLE firmware requires Arduino IDE to compile correctly. See Nice!Nano and BlueMIcro documentation for details.
 
 ## Disclaimer
 
