@@ -20,17 +20,11 @@ concept, case design and firmware by Falconloft\#4615, pcb design by Calvin\#056
 ![](https://github.com/calvin-mcd/Kestrel47/blob/main/Images/case2.jpg)  
 ![](https://github.com/calvin-mcd/Kestrel47/blob/main/Images/pcb.jpg)
 
-## Todo
-
-* [x] fix BLE firmware
-
 ## Firmware
 
 Firmware for both Atmega and rp2040 controllers is functional and included.
 
-The BLE firmware is designed for bluemirco style controllers.
-
-The included BLE firmware requires Arduino IDE to compile correctly. See Nice!Nano and BlueMIcro documentation for details.
+The Bluetooth firmware is zmk based, functional and included.
 
 ## Disclaimer
 
